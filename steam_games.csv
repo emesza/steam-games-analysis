@@ -1,0 +1,63 @@
+name,genre,release_year,price_usd,positive_review_pct,avg_playtime_hours
+Counter-Strike 2,Shooter,2023,0.00,88,220
+Dota 2,Strategy,2013,0.00,82,410
+PUBG: BATTLEGROUNDS,Shooter,2017,0.00,58,190
+Team Fortress 2,Shooter,2007,0.00,92,150
+Apex Legends,Shooter,2020,0.00,86,180
+Grand Theft Auto V,Action,2015,29.99,86,120
+The Witcher 3: Wild Hunt,RPG,2015,39.99,97,105
+Baldur's Gate 3,RPG,2023,59.99,96,140
+Elden Ring,RPG,2022,59.99,94,130
+Stardew Valley,Simulation,2016,14.99,98,160
+Terraria,Adventure,2011,9.99,97,190
+Hades,Indie,2020,24.99,98,60
+Hollow Knight,Indie,2017,14.99,96,70
+Cyberpunk 2077,RPG,2020,59.99,83,90
+Red Dead Redemption 2,Action,2019,59.99,92,110
+Portal 2,Puzzle,2011,9.99,98,15
+Half-Life: Alyx,Action,2020,59.99,95,20
+DOOM Eternal,Shooter,2020,39.99,94,35
+Sekiro: Shadows Die Twice,Action,2019,59.99,94,45
+Dark Souls III,RPG,2016,59.99,93,80
+Rust,Survival,2018,39.99,85,300
+ARK: Survival Evolved,Survival,2017,49.99,73,250
+Sea of Thieves,Adventure,2018,39.99,79,140
+Valheim,Survival,2021,19.99,94,150
+Slay the Spire,Indie,2019,24.99,97,55
+Among Us,Indie,2018,4.99,88,25
+Fall Guys,Indie,2020,0.00,80,20
+Rocket League,Sports,2015,0.00,87,200
+FIFA 23,Sports,2022,59.99,60,80
+NBA 2K23,Sports,2022,59.99,55,70
+Football Manager 2024,Sports,2023,54.99,74,220
+Civilization VI,Strategy,2016,59.99,89,180
+Age of Empires IV,Strategy,2021,59.99,85,90
+Total War: WARHAMMER III,Strategy,2022,59.99,86,150
+XCOM 2,Strategy,2016,59.99,88,95
+Factorio,Simulation,2020,30.00,97,320
+Cities: Skylines,Simulation,2015,29.99,86,140
+Euro Truck Simulator 2,Simulation,2012,19.99,96,250
+Microsoft Flight Simulator,Simulation,2020,59.99,79,110
+The Sims 4,Simulation,2014,39.99,72,190
+Assassin's Creed Valhalla,Action,2020,59.99,74,100
+Far Cry 6,Action,2021,59.99,71,60
+Resident Evil 4 (2023),Action,2023,59.99,96,30
+Monster Hunter: World,RPG,2018,29.99,90,180
+Persona 5 Royal,RPG,2022,59.99,97,100
+Divinity: Original Sin 2,RPG,2017,44.99,96,120
+Disco Elysium,RPG,2019,39.99,96,35
+Inside,Indie,2016,19.99,94,4
+Limbo,Indie,2010,9.99,92,4
+Celeste,Indie,2018,19.99,98,20
+Ori and the Blind Forest,Adventure,2015,19.99,96,10
+It Takes Two,Adventure,2021,39.99,97,15
+A Way Out,Adventure,2018,29.99,89,7
+Left 4 Dead 2,Shooter,2009,9.99,97,60
+Payday 2,Shooter,2013,9.99,86,110
+Warframe,Shooter,2013,0.00,87,300
+Destiny 2,Shooter,2017,0.00,64,250
+Overwatch 2,Shooter,2022,0.00,58,150
+Vampire Survivors,Indie,2022,4.99,97,40
+Balatro,Indie,2024,14.99,98,45
+Palworld,Survival,2024,29.99,86,60
+Helldivers 2,Shooter,2024,39.99,80,70
