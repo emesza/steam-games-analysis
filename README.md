@@ -1,6 +1,6 @@
 # Análise de Dados: Jogos da Steam
 
-Projeto de análise exploratória de dados usando **Python** e **Pandas**, feito para praticar limpeza de dados, agregações e visualização com um tema popular: jogos da plataforma Steam.
+Projeto de análise exploratória de dados usando Python e Pandas, feito para praticar limpeza de dados, agregações e visualização com um tema que faz parte do meu interesse pessoal: jogos, usando dados da plataforma Steam.
 
 ## O que o projeto faz
 
@@ -12,14 +12,14 @@ Projeto de análise exploratória de dados usando **Python** e **Pandas**, feito
   - Quais são os 10 jogos mais bem avaliados?
   - Quantos jogos são gratuitos vs pagos?
   - Qual gênero prende mais o jogador (tempo médio de jogo)?
-- Gera 3 gráficos (`.png`) com Matplotlib para visualizar os resultados
+- Gera 3 gráficos (.png) com Matplotlib para visualizar os resultados
 
 ## Principais descobertas
 
-- **Shooter** é o gênero com mais jogos na base, seguido de Indie e RPG
-- Jogos de **Strategy** e **Sports** têm o maior preço médio; **Indie** e **Puzzle**, o menor
-- A correlação entre preço e % de avaliações positivas é praticamente nula (≈ -0.06) — preço não é um bom preditor de qualidade percebida
-- Jogos de **Simulation**, **Survival** e **Strategy** têm o maior tempo médio de jogo, o que faz sentido dado o caráter de longo prazo desses gêneros
+- Shooter é o gênero com mais jogos na base, seguido de Indie e RPG
+- Jogos de Strategy e Sports têm o maior preço médio; Indie e Puzzle, o menor
+- A correlação entre preço e % de avaliações positivas é praticamente nula (≈ -0.06), ou seja, preço não é um bom preditor de qualidade percebida
+- Jogos de Simulation, Survival e Strategy têm o maior tempo médio de jogo, o que faz sentido dado o caráter de longo prazo desses gêneros
 
 ## Como rodar
 
@@ -30,7 +30,7 @@ python analise_steam.py
 
 ## Sobre os dados
 
-Por limitação de escopo (o dataset oficial do Steam tem mais de 80.000 jogos e passa de 100MB), esta versão usa uma amostra compacta e curada com ~60 jogos conhecidos, montada manualmente com dados aproximados de preço e avaliação. A lógica do código é a mesma que se aplicaria ao dataset completo — para escalar, basta trocar o `steam_games.csv` por um dataset maior (ex: [Steam Games Dataset no Kaggle](https://www.kaggle.com/datasets)) mantendo as mesmas colunas.
+O dataset completo da Steam tem mais de 80 mil jogos e passa de 100MB, então preferi montar uma versão menor com cerca de 60 jogos conhecidos pra focar na lógica da análise sem me perder no tamanho do arquivo. O código funciona do mesmo jeito com uma base maior, é só trocar o `steam_games.csv` por um dataset completo (tem um bom no [Kaggle](https://www.kaggle.com/datasets)) mantendo as mesmas colunas.
 
 ## Tecnologias usadas
 
@@ -39,4 +39,4 @@ Por limitação de escopo (o dataset oficial do Steam tem mais de 80.000 jogos e
 - Matplotlib
 
 ---
-Projeto feito por Matheus Souza como parte do portfólio de estudos em Ciência de Dados.
+Projeto feito por Matheus Souza como parte do portfólio de estudos.
