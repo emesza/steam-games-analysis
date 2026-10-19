@@ -4,7 +4,7 @@ Projeto de análise exploratória de dados feito para praticar limpeza de dados,
 
 ## Painel no Power BI
 
-![Painel Jogos da Steam](painel_steam.png)
+![Painel Jogos da Steam](steam_dashboard.png)
 
 O painel traz:
 
